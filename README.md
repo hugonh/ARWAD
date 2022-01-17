@@ -1,6 +1,6 @@
 Owning an apk by gitlab exposure
 
-My latest Penetration Testing Project:
+"My latest Penetration Testing Project:
 I just had a mobile application (apk file) in hand to start.
 Starting the Project:
 1. Reverse Engineering the apk file.
@@ -35,10 +35,10 @@ Starting the Project:
 30. Successfully obtained Remote Code Execution to the Company Server.
 31. I owned the Whole Company 😎
 Project finished!
-Duration: 5 days (5 hours a day).
+Duration: 5 days (5 hours a day)."
 
 
 # ARWAD
 Advanced Reconnaissance and Web Application Discovery.
 
-Dropping here some of my mindset relating to Reconnaissance.
+Dropping here some of my mindset relating to Reconnaissance. 
